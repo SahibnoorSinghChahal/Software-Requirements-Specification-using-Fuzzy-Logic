@@ -20,11 +20,11 @@ The software uses MATLAB’s inbuilt toolkit for fuzzy logic and hence can be ru
 with MATLAB installed.
 
 ### Assumptions and Dependencies
-The software for its proper and complete working considers the following assumptions
-• All key project team members are available and have the necessary skills and knowledge to
+The software for its proper and complete working considers the following assumptions:
+1. All key project team members are available and have the necessary skills and knowledge to
 work on the project.
-• The feedbacks can only be categorized in three segments.
+2. The feedbacks can only be categorized in three segments.
 
 Dependencies
-• Truth value of data set
-• How effective the toolkit is when applied.
+1. Truth value of data set
+2. How effective the toolkit is when applied.
