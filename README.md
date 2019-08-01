@@ -26,6 +26,5 @@ work on the project.
 • The feedbacks can only be categorized in three segments.
 
 Dependencies
-
 • Truth value of data set
 • How effective the toolkit is when applied.
